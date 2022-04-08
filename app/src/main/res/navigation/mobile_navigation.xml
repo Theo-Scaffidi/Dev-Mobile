@@ -12,10 +12,10 @@
         tools:layout="@layout/fragment_home" />
 
     <fragment
-        android:id="@+id/nav_gallery"
-        android:name="com.example.minigames.ui.gallery.GalleryFragment"
-        android:label="@string/menu_gallery"
-        tools:layout="@layout/fragment_gallery" />
+        android:id="@+id/nav_pendu"
+        android:name="com.example.minigames.ui.pendu.penduFragment"
+        android:label="@string/menu_pendu"
+        tools:layout="@layout/fragment_pendu" />
 
     <fragment
         android:id="@+id/nav_slideshow"
