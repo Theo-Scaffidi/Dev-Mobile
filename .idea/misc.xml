@@ -9,10 +9,18 @@
         <entry key="..\:/Users/naule/Desktop/Cours/2eme annee/Kotlin/MiniGames/app/src/main/res/layout/fragment_gallery.xml" value="0.1265625" />
         <entry key="..\:/Users/naule/Desktop/Cours/2eme annee/Kotlin/MiniGames/app/src/main/res/layout/fragment_home.xml" value="0.1265625" />
         <entry key="..\:/Users/naule/Desktop/Cours/2eme annee/Kotlin/MiniGames/app/src/main/res/layout/fragment_slideshow.xml" value="0.1265625" />
+        <entry key="..\:/Users/tscaf/AndroidStudioProjects/Dev-Mobile/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.1" />
+        <entry key="..\:/Users/tscaf/AndroidStudioProjects/Dev-Mobile/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/tscaf/AndroidStudioProjects/Dev-Mobile/app/src/main/res/layout/app_bar_main.xml" value="0.11820652173913043" />
+        <entry key="..\:/Users/tscaf/AndroidStudioProjects/Dev-Mobile/app/src/main/res/layout/fragment_gallery.xml" value="0.1" />
+        <entry key="..\:/Users/tscaf/AndroidStudioProjects/Dev-Mobile/app/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/Users/tscaf/AndroidStudioProjects/Dev-Mobile/app/src/main/res/layout/fragment_morpion.xml" value="0.22" />
+        <entry key="..\:/Users/tscaf/AndroidStudioProjects/Dev-Mobile/app/src/main/res/layout/fragment_slideshow.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/tscaf/AndroidStudioProjects/Dev-Mobile/app/src/main/res/menu/activity_main_drawer.xml" value="0.5" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
