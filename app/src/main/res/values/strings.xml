@@ -9,6 +9,7 @@
 
     <string name="menu_home">Home</string>
 
+
     <string name="menu_pendu">Pendu</string>
     <string name="init_word">_ _ _ _ _ _ _</string>
     <string name="new_game">New Game</string>
@@ -20,4 +21,7 @@
     <string name="letter_already_entered">Letter already entered</string>
 
     <string name="menu_slideshow">Slideshow</string>
+
+    <string name="menu_morpion">Morpion</string>
+
 </resources>
