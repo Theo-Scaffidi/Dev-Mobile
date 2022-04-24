@@ -80,7 +80,7 @@ class MorpionFragment : Fragment() {
             result("Joueur 2 Gagne")
         }
 
-        if(fullBoard()){
+        if(fullBoard() && !checkForVictory(CROSS) && !checkForVictory(NOUGHT)){
             result("Egalité")
         }
     }

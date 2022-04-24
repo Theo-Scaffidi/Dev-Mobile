@@ -24,4 +24,7 @@
 
     <string name="menu_morpion">Morpion</string>
 
+    <string name="main_menu_morpion">Morpion</string>
+    <string name="main_menu_pendu">Pendu!!</string>
+
 </resources>
